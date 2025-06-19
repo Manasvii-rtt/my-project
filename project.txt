@@ -1,3 +1,4 @@
 Initial content
 hello from feature 1
 Hello from feature 2
+Hello from feature1
